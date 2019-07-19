@@ -2,12 +2,15 @@
 
 En este repositorio están los pasos necesarios para usar el wifi del DAppNode de la Colm3na como nodo.
 
-El primer paso es conectarse al wifi del DAppNode, su `SSID` es `DAppNodeColm3na` para saber la contraseña pásate por la Colmena =P.
+El primer paso es conectarse al wifi del DAppNode, su `SSID` es `DAppNodeColm3na` para saber la contraseña pásate por la Colmena :honeybee: .
 
 Para utilizarlo es necesario tener [Metamask](https://metamask.io) instalado.
 
-- Mainnet:
+<sumary>
+<h1 align="center"> Red principal de Ethereum: </h1>
 
+</sumary>
+<details>
 1. Desbloqueamos Metamask:
 
 <p align="center"> 
@@ -38,9 +41,13 @@ Para utilizarlo es necesario tener [Metamask](https://metamask.io) instalado.
 <p align="center"> 
 <img src="./images/image5.png">
 </p>
+</details>
 
-- Testnet Rinkeby:
+<sumary>
+<h1 align="center"> Testnet Rinkeby: </h1>
 
+</sumary>
+<details>
 1. Desbloqueamos Metamask:
 
 <p align="center"> 
@@ -71,6 +78,8 @@ Para utilizarlo es necesario tener [Metamask](https://metamask.io) instalado.
 <p align="center"> 
 <img src="./images/image7.png">
 </p>
+</details>
+
 
 
 **Recordad que estos pasos sólo se pueden seguir si estamos conectados al wifi del DAppNode de la Colmena, desde otro punto no conectaría con el.**
