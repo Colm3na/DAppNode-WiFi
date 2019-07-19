@@ -1,4 +1,4 @@
-<h1 align="center"> DAppNode-WiFi </h1>
+<h1 align="center"> DAppNode + WiFi </h1>
 
 En este repositorio están los pasos necesarios para usar el wifi del [DAppNode](https://github.com/dappnode/DAppNode) de la [Colm3na](https://www.coworkingcolmena.com) como nodo.
 
